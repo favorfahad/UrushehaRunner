@@ -426,7 +426,7 @@ let config = {
         mode: Phaser.Scale.RESIZE, // This is key to auto-resizing
         autoCenter: Phaser.Scale.CENTER_BOTH
     },
-    backgroundColor: '#e60099',
+    backgroundColor: '#db7bcb',
     physics: {
         default: 'arcade',
         arcade: {
